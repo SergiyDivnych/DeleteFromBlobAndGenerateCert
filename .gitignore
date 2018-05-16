@@ -3,3 +3,6 @@
 ################################################################################
 
 /DeleteFromBlob/60days_include.txt
+/DeleteFromBlob/60days_exclude.txt
+/.vs/DeleteFromBlobAndGenerateCert/v15/Server/sqlite3
+/.vs/DeleteFromBlobAndGenerateCert/v15
